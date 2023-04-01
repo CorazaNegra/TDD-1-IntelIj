@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11fad93-ed5f-437e-80e3-97798ce41726" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TDD Practica Coche.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TDD Practica Coche.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/TestCoche.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/TestCoche.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NpyRK4AMmc2YtUT12zgwS0MkHH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,6 +30,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -34,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680375311228</updated>
-      <workItem from="1680375312655" duration="323000" />
+      <workItem from="1680375312655" duration="655000" />
     </task>
     <servers />
   </component>
